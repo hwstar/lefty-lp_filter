@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "lp_filter_8_bands-rescue")(type "Legacy")(uri "${KIPRJMOD}/lp_filter_8_bands-rescue.lib")(options "")(descr ""))
+)
